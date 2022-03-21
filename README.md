@@ -1,5 +1,7 @@
 ### Bem vindo ao meu git👋
 Fique à vontade para olhar meus codigos e projetos 😁
+Aluno de Ciências da computação PUC-minas 📚
+Email: luizfsjunior.2002@gmail.com 📫
 <!--
 **luizfsjunior/luizfsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
