@@ -1,5 +1,5 @@
 ### Bem vindo ao meu git👋
-Fique à vontade para olhas meus codigos e projeto 😁
+Fique à vontade para olhar meus codigos e projetos 😁
 <!--
 **luizfsjunior/luizfsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
