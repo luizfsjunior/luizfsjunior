@@ -1,9 +1,25 @@
-### Bem vindo ao meu git👋
-Fique à vontade para olhar meus codigos e projetos 😁
+## Bem vindo ao meu git👋
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfsjunior&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=aura_dark"/>
+</div>
+<br>
 
-Aluno de Ciências da computação PUC-minas 📚          
-                                                                                                                                  
-Email: luizfsjunior.2002@gmail.com 📫
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">  
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: luizfsjunior.2002@mgail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luiz-fernando-6a8b93207/">
+      <img width="25" src="linkedin.svg">
+    </a>
+</div>
+
+![Snake animation](https://github.com/luizfsjunior/luizfsjunior/blob/output/github-contribution-grid-snake.svg)
 <!--
 **luizfsjunior/luizfsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
